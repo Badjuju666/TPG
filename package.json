@@ -1,0 +1,29 @@
+{
+  "name": "project-10",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Badjuju666/TPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Badjuju666/TPG/issues"
+  },
+  "homepage": "https://github.com/Badjuju666/TPG#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "description": ""
+}
